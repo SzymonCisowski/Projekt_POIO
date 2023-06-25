@@ -1,0 +1,27 @@
+﻿  Ekspres.cpp
+E:\Data\Pulpit\Ekspres do kawy\Ekspres\Ekspres\Ekspres.cpp(61,22): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+E:\Data\Pulpit\Ekspres do kawy\Ekspres\Ekspres\Ekspres.cpp(62,22): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+E:\Data\Pulpit\Ekspres do kawy\Ekspres\Ekspres\Ekspres.cpp(130,22): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+E:\Data\Pulpit\Ekspres do kawy\Ekspres\Ekspres\Ekspres.cpp(131,22): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Trwa generowanie kodu
+  1 of 222 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  Ekspres.vcxproj -> E:\Data\Pulpit\Ekspres do kawy\Ekspres\x64\Release\Ekspres.exe
